@@ -23,9 +23,11 @@ server.use((req, res, next) => {
 })
 
 router.render = (req, res) => {
-  console.log(res.statusCode)
+  // console.log(res.statusCode)
+  // console.log(res.locals)
+  console.log(res.locals)
 
-  if(res.statusCode == "200"){
+  if(res.statusCode == "200" || res.statusCode == "201"  ){
     res.jsonp({
       result : "OK",
       data : res.locals.data

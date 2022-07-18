@@ -1,12 +1,12 @@
 {
   "posts": [
     {
+      "board_id": 1,
       "userInfo": {
-        "email_id": "sysky7204@naver.com",
-        "nick": "jenny",
+        "email_id": "lisa@naver.com",
+        "nick": "lisa",
         "profile_url": "https://placekitten.com/300/300"
       },
-      "board_id": 1,
       "content": "this is test content",
       "indate": "20220701100000",
       "editdate": "20220705100000",
@@ -22,9 +22,11 @@
       ],
       "urlList": [
         {
-          "uel": "https://placekitten.com/300/300"
+          "seq": 0,
+          "url": "https://placekitten.com/300/300"
         },
         {
+          "seq": 1,
           "url": "https://placekitten.com/300/300"
         }
       ],
@@ -48,7 +50,7 @@
           "product_state": "01",
           "sel_way": "01",
           "min_price": 1000000,
-          "sdate": "20220801",
+          "sdate": "20220701",
           "edate": "20220901",
           "region": "가산역/독산역",
           "is_confirm": "Y",
@@ -58,71 +60,8 @@
           "deldate": ""
         }
       ],
-      "biduserList": [],
-      "createdAt": 1658050314970,
+      "createdAt": 1658158927235,
       "id": 1
-    },
-    {
-      "userInfo": {
-        "email_id": "sysky7204@naver.com",
-        "nick": "jenny",
-        "profile_url": "https://placekitten.com/300/300"
-      },
-      "board_id": 1,
-      "content": "this is test content",
-      "indate": "20220701100000",
-      "editdate": "20220705100000",
-      "deldate": "",
-      "likecnt": 8,
-      "tagList": [
-        {
-          "tag": "cat"
-        },
-        {
-          "tag": "animal"
-        }
-      ],
-      "urlList": [
-        {
-          "uel": "https://placekitten.com/300/300"
-        },
-        {
-          "url": "https://placekitten.com/300/300"
-        }
-      ],
-      "comments": [
-        {
-          "email_id": "cloudctworld@nate.com",
-          "comment_id": 1,
-          "nick": "jisu",
-          "comment": "귀여웡 ㅜ",
-          "parent_id": 0,
-          "indate": "20220701101010",
-          "editdate": "20220701101010",
-          "deldate": ""
-        }
-      ],
-      "auction": [
-        {
-          "title": "macbook air",
-          "sel_price": 1200000,
-          "category": "01",
-          "product_state": "01",
-          "sel_way": "01",
-          "min_price": 1000000,
-          "sdate": "20220801",
-          "edate": "20220901",
-          "region": "가산역/독산역",
-          "is_confirm": "Y",
-          "auc_state": "01",
-          "indate": "20220701101010",
-          "editdate": "",
-          "deldate": ""
-        }
-      ],
-      "biduserList": [],
-      "createdAt": 1658050355137,
-      "id": 2
     }
   ],
   "comments": [],
