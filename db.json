@@ -1,33 +1,30 @@
 {
   "posts": [
     {
-      "board_id": 1,
+      "board_id": "2",
       "userInfo": {
-        "email_id": "lisa@naver.com",
-        "nick": "lisa",
-        "profile_url": "https://placekitten.com/300/300"
+        "email_id": "sysky7204@gmail.com",
+        "nick": "joso",
+        "profile_url": "https://shopping-phinf.pstatic.net/main_3309429/33094298618.3.20220705135407.jpg?type=f640"
       },
       "content": "this is test content",
       "indate": "20220701100000",
       "editdate": "20220705100000",
-      "deldate": "",
+      "deldate": "20220705100000",
+      "isAuction": "0",
       "likecnt": 8,
       "tagList": [
-        {
-          "tag": "cat"
-        },
-        {
-          "tag": "animal"
-        }
+        "it",
+        "coading"
       ],
       "urlList": [
         {
           "seq": 0,
-          "url": "https://placekitten.com/300/300"
+          "url": "https://shopping-phinf.pstatic.net/main_2928180/29281800623.20211020120244.jpg?type=f640"
         },
         {
           "seq": 1,
-          "url": "https://placekitten.com/300/300"
+          "url": "https://shopping-phinf.pstatic.net/main_2928180/29281800623.2.20211020120244.jpg?type=f640"
         }
       ],
       "comments": [
@@ -42,29 +39,265 @@
           "deldate": ""
         }
       ],
-      "auction": [
+      "auction": {
+        "title": "macbook air",
+        "sel_price": 1200000,
+        "category": "01",
+        "product_state": "01",
+        "sel_way": "01",
+        "min_price": 1000000,
+        "sdate": "20220701",
+        "edate": "20220901",
+        "region": "가산역/독산역",
+        "is_confirm": "Y",
+        "auc_state": "01",
+        "indate": "20220701101010",
+        "editdate": "",
+        "deldate": "",
+        "cur_price": 10000000,
+        "cur_cnt": 126
+      },
+      "createdAt": 1658658260432,
+      "id": 2
+    },
+    {
+      "board_id": "3",
+      "userInfo": {
+        "email_id": "sysky7204@gmail.com",
+        "nick": "joso",
+        "profile_url": "https://shopping-phinf.pstatic.net/main_3309429/33094298618.3.20220705135407.jpg?type=f640"
+      },
+      "content": "this is test content",
+      "indate": "20220701100000",
+      "editdate": "20220705100000",
+      "deldate": "20220705100000",
+      "isAuction": "0",
+      "likecnt": 8,
+      "tagList": [
+        "it",
+        "coading"
+      ],
+      "urlList": [
         {
-          "title": "macbook air",
-          "sel_price": 1200000,
-          "category": "01",
-          "product_state": "01",
-          "sel_way": "01",
-          "min_price": 1000000,
-          "sdate": "20220701",
-          "edate": "20220901",
-          "region": "가산역/독산역",
-          "is_confirm": "Y",
-          "auc_state": "01",
+          "seq": 0,
+          "url": "https://shopping-phinf.pstatic.net/main_3278183/32781830875.20220607080805.jpg?type=f640"
+        },
+        {
+          "seq": 1,
+          "url": "https://shopping-phinf.pstatic.net/main_3278183/32781830875.20220607080805.jpg?type=f640"
+        }
+      ],
+      "comments": [
+        {
+          "email_id": "cloudctworld@nate.com",
+          "comment_id": 1,
+          "nick": "jisu",
+          "comment": "귀여웡 ㅜ",
+          "parent_id": 0,
           "indate": "20220701101010",
-          "editdate": "",
+          "editdate": "20220701101010",
           "deldate": ""
         }
       ],
-      "createdAt": 1658158927235,
-      "id": 1
+      "auction": {
+        "title": "macbook air",
+        "sel_price": 1200000,
+        "category": "01",
+        "product_state": "01",
+        "sel_way": "01",
+        "min_price": 1000000,
+        "sdate": "20220701",
+        "edate": "20220901",
+        "region": "가산역/독산역",
+        "is_confirm": "Y",
+        "auc_state": "01",
+        "indate": "20220701101010",
+        "editdate": "",
+        "deldate": "",
+        "cur_price": 10000000,
+        "cur_cnt": 126
+      },
+      "createdAt": 1658658345192,
+      "id": 3
+    },
+    {
+      "board_id": "4",
+      "userInfo": {
+        "email_id": "sysky7204@gmail.com",
+        "nick": "joso",
+        "profile_url": "https://placekitten.com/300/300"
+      },
+      "content": "this is test content",
+      "indate": "20220701100000",
+      "editdate": "20220705100000",
+      "deldate": "20220705100000",
+      "likecnt": 8,
+      "tagList": [
+        "it",
+        "coading"
+      ],
+      "urlList": [
+        {
+          "seq": 0,
+          "url": "https://shopping-phinf.pstatic.net/main_3309199/33091993619.1.20220705135333.jpg?type=f640"
+        },
+        {
+          "seq": 1,
+          "url": "https://shopping-phinf.pstatic.net/main_3309199/33091993619.1.20220705135333.jpg?type=f640"
+        }
+      ],
+      "comments": [
+        {
+          "email_id": "cloudctworld@nate.com",
+          "comment_id": 1,
+          "nick": "jisu",
+          "comment": "귀여웡 ㅜ",
+          "parent_id": 0,
+          "indate": "20220701101010",
+          "editdate": "20220701101010",
+          "deldate": ""
+        }
+      ],
+      "auction": {
+        "title": "macbook air",
+        "sel_price": 1200000,
+        "category": "01",
+        "product_state": "01",
+        "sel_way": "01",
+        "min_price": 1000000,
+        "sdate": "20220701",
+        "edate": "20220901",
+        "region": "가산역/독산역",
+        "is_confirm": "Y",
+        "auc_state": "01",
+        "indate": "20220701101010",
+        "editdate": "",
+        "deldate": "",
+        "cur_price": 10000000,
+        "cur_cnt": 126
+      },
+      "createdAt": 1658658370421,
+      "id": 4
+    },
+    {
+      "board_id": "6",
+      "userInfo": {
+        "email_id": "sysky7204@gmail.com",
+        "nick": "joso",
+        "profile_url": "https://placekitten.com/300/300"
+      },
+      "content": "this is test content",
+      "indate": "20220701100000",
+      "editdate": "20220705100000",
+      "deldate": "20220705100000",
+      "likecnt": 8,
+      "tagList": [
+        "it",
+        "coading"
+      ],
+      "urlList": [
+        {
+          "seq": 0,
+          "url": "https://shopping-phinf.pstatic.net/main_6296100/6296100316.20191231174557.jpg?type=f640"
+        },
+        {
+          "seq": 1,
+          "url": "https://shopping-phinf.pstatic.net/main_6296100/6296100316.20191231174557.jpg?type=f640"
+        }
+      ],
+      "comments": [
+        {
+          "email_id": "cloudctworld@nate.com",
+          "comment_id": 1,
+          "nick": "jisu",
+          "comment": "귀여웡 ㅜ",
+          "parent_id": 0,
+          "indate": "20220701101010",
+          "editdate": "20220701101010",
+          "deldate": ""
+        }
+      ],
+      "auction": {
+        "title": "macbook air",
+        "sel_price": 1200000,
+        "category": "01",
+        "product_state": "01",
+        "sel_way": "01",
+        "min_price": 1000000,
+        "sdate": "20220701",
+        "edate": "20220901",
+        "region": "가산역/독산역",
+        "is_confirm": "Y",
+        "auc_state": "01",
+        "indate": "20220701101010",
+        "editdate": "",
+        "deldate": "",
+        "cur_price": 10000000,
+        "cur_cnt": 126
+      },
+      "createdAt": 1658659999645,
+      "id": 5
     }
   ],
   "comments": [],
+  "bids": [
+    {
+      "board_id": "1",
+      "bidid": "sysky7204@gmail.com",
+      "bid_price": "50000",
+      "status": "",
+      "createdAt": 1658331214940,
+      "id": 1
+    },
+    {
+      "board_id": "1",
+      "bidid": "sysky7204@gmail.com",
+      "bid_price": 0,
+      "status": "",
+      "createdAt": 1658633848632,
+      "id": 2
+    },
+    {
+      "board_id": "1",
+      "bidid": "sysky7204@gmail.com",
+      "bid_price": 0,
+      "status": "",
+      "createdAt": 1658633976154,
+      "id": 3
+    },
+    {
+      "board_id": "1",
+      "bidid": "sysky7204@gmail.com",
+      "bid_price": 0,
+      "status": "",
+      "createdAt": 1658633983366,
+      "id": 4
+    },
+    {
+      "board_id": "1",
+      "bidid": "sysky7204@gmail.com",
+      "bid_price": 0,
+      "status": "",
+      "createdAt": 1658633998044,
+      "id": 5
+    },
+    {
+      "board_id": "2",
+      "bidid": "sysky7204@gmail.com",
+      "bid_price": 0,
+      "status": "",
+      "createdAt": 1658644315380,
+      "id": 6
+    },
+    {
+      "board_id": "1",
+      "bidid": "sysky7204@gmail.com",
+      "bid_price": 0,
+      "status": "",
+      "createdAt": 1658657924519,
+      "id": 7
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
